@@ -1,0 +1,15 @@
+[
+{ "url":"Caja 1.wav","type":"audio","bank":"madera1","n":0},
+{ "url":"Caja 2.wav","type":"audio","bank":"madera2","n":0},
+{ "url":"Caja 3.wav","type":"audio","bank":"madera3","n":0},
+{ "url":"Caja 4.wav","type":"audio","bank":"madera4","n":0},
+{ "url":"Caja 5.wav","type":"audio","bank":"madera5","n":0},
+{ "url":"Hojas 1.wav","type":"audio","bank":"hojas1","n":0},
+{ "url":"Hojas 2.wav","type":"audio","bank":"hojas2","n":0},
+{ "url":"Hojas 3.wav","type":"audio","bank":"hojas3","n":0},
+{ "url":"Hojas 4.wav","type":"audio","bank":"hojas4","n":0},
+{ "url":"Hojas 5.wav","type":"audio","bank":"hojas5","n":0},
+{ "url":"Tun 1.wav","type":"audio","bank":"vara1","n":0},
+{ "url":"Tun 2.wav","type":"audio","bank":"vara2","n":0}, 
+{ "url":"Tun 3.wav","type":"audio","bank":"vara3","n":0}  
+]
